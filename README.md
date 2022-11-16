@@ -17,4 +17,4 @@
   ![img](img9.png)
 
 ### Cambiamos el archovo ports.conf para que la ip que devuelva ssea la del localhost.
-  ![img](img10.conf)
+  ![img](img10.png)
