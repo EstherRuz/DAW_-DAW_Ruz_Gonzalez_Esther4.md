@@ -18,3 +18,6 @@
 
 ### Cambiamos el archovo ports.conf para que la ip que devuelva ssea la del localhost.
   ![img](img10.png)
+  
+### Comprobamos que funciona:
+
