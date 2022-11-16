@@ -11,3 +11,7 @@
 
 ### Descomentamos la linea de ServerName y le ponemos el nombre de nuestro sitio web. Esto en los dos ficheros que he creado antes.
   ![img](img7.png)
+  ![img](img8.png)
+
+### Creamos un enlace simbolico dentro del directorio 
+ 
