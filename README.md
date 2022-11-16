@@ -9,3 +9,5 @@
 ### Para hacer dos sitios virtuales necesitamos dos archovos de configuración:
   ![img](img6.png)
 
+### Descomentamos la linea de ServerName y le ponemos el nombre de nuestro sitio web. Esto en los dos ficheros que he creado antes.
+  ![img](img7.png)
