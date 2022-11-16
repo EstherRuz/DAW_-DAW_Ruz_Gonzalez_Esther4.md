@@ -14,4 +14,7 @@
   ![img](img8.png)
 
 ### Creamos un enlace simbolico dentro del directorio 
- 
+  ![img](img9.png)
+
+### Cambiamos el archovo ports.conf para que la ip que devuelva ssea la del localhost.
+  
